@@ -58,7 +58,7 @@ Steps:
 npm i -g azure-functions-core-tools@3
 ```
 
-In case facing issue, check NPM registry, disable SSL or use unsafe-perm as,
+In case facing issue, check NPM registry, disable SSL or use unsafe-perm (set NODE_TLS_REJECT_UNAUTHORIZED=0 | npm set -g strict-ssl false | npm i -g azure-functions-core-tools@3 --unsafe-perm true) as,
 ```
 npm i -g azure-functions-core-tools@3
 ```
