@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 # Azure Function - With Event Grid Handler
 
 ## Description
