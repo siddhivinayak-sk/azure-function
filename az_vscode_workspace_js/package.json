@@ -1,0 +1,11 @@
+{
+  "name": "az_vscode_workspace",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
